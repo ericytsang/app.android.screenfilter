@@ -1,6 +1,6 @@
-This repo is github pages source code for Split Screen's official website.
+This is the github pages repo for Trackpad's official website.
 
-Split Screen:
+Links:
 
-* [Google Play Store app listing](https://play.google.com/store/apps/details?id=com.github.ericytsang.multiwindow.app.android)
-* [Official website](https://ericytsang.github.io/app.android.multiwindow/index.html)
+* [Google Play Store app listing](https://play.google.com/store/apps/details?id=com.github.ericytsang.touchpad.app.android)
+* [Official website](https://ericytsang.github.io/app.android.touchpad/index.html)
