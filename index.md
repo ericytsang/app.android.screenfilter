@@ -1,5 +1,5 @@
 ---
-title: FAQs
+title: Home
 ---
 
 {% include navbar.md %}
