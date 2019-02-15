@@ -1,3 +1,9 @@
+---
+title: FAQs
+---
+
+{% include navbar.md %}
+
 # Frequently Asked Questions
 
 ## Why doesn't the app do anyting after I turned on the Accessability Service?
