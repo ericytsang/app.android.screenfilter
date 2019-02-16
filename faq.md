@@ -10,4 +10,4 @@ title: FAQs
 [That is a bug](https://github.com/ericytsang/app.android.touchpad/issues/1) :( usually, restarting your phone will fix this.
 
 ## Couldn't find an answer?
-Ask the dev team, and other Trackpad users on our [Discord Server](https://discord.gg/bNaRub4)!
+Ask the dev team, and other Trackpad users on our [Discord Server](https://discord.gg/rkdaYNx)!
