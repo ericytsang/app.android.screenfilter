@@ -4,7 +4,7 @@ title: Home
 
 {% include navbar.md %}
 
-This is Trackpad's official website.
+This is Screen Dimmer's official website.
 
 Links:
 
