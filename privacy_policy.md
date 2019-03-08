@@ -6,7 +6,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-This *Privacy Policy* governs your use of the software application **Trackpad** ("*Application*") for mobile devices that was created by **etsang**. The *Application* provides an *Accessibility Service* that lets users interact with areas of the screen without having to physically reach and interact with those areas of the screen themselves.
+This *Privacy Policy* governs your use of the software application **Screen Dimmer** ("*Application*") for mobile devices that was created by **etsang**. The *Application* provides an *Accessibility Service* that adds a tinted overlay over a device's screen to make it darker than usual, and/or change its color.
 
 ## User Provided Information 
 
@@ -54,7 +54,7 @@ We are concerned about safeguarding the confidentiality of your information. We 
 
 ## Changes
 
-This *Privacy Policy* may be updated from time to time for any reason. We will notify you of any changes to our *Privacy Policy* by posting the new *Privacy Policy* here and informing you via email or text message. You are advised to consult this *Privacy Policy* regularly for any changes, as continued use is deemed approval of all changes. You can [check the history of this *Privacy Policy* here](https://github.com/ericytsang/app.android.touchpad/commits/master/privacy_policy.md). 
+This *Privacy Policy* may be updated from time to time for any reason. We will notify you of any changes to our *Privacy Policy* by posting the new *Privacy Policy* here and informing you via email or text message. You are advised to consult this *Privacy Policy* regularly for any changes, as continued use is deemed approval of all changes. You can [check the history of this *Privacy Policy* here](https://github.com/ericytsang/app.android.screenfilter/commits/master/privacy_policy.md). 
 
 ## Your Consent
 
