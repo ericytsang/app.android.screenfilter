@@ -1,4 +1,4 @@
-This is Screen Dimmer's official website's GitHub Pages' Git Repository.
+This is Screen Dimmer's official website's GitHub Pages' Git repository.
 
 Links:
 
